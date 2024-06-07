@@ -1,24 +1,13 @@
 # Design Pattern Adapter
 > Analysis and implementation of the Adapter Design Pattern
 
-![Adapter](https://github.com/AminEhsan/DesignPattern-Adapter/blob/main/Adapter.png) 
+![Adapter](https://github.com/AminEhsan/DesignPattern-Adapter/blob/main/1.png) 
 
 Adapter is a structural design pattern that allows objects with incompatible interfaces to collaborate.
 
 ## How to run Python
 ```bash
-cd Python
-
 python main.py
-```
-
-## How to compile TypeScript run Node.js
-```bash
-cd TypeScript
-
-tsc main.ts
-
-node main.js
 ```
 
 #### Output :
@@ -33,11 +22,5 @@ node main.js
 
 #### Structure :
 ```
-├── Python
-    └── main.py
-└── TypeScript
-    └── main.ts
+├── main.py
 ```
-
-### More resources . . .
-- [Articles](https://drive.google.com/drive/folders/1n8Mhjx3wbUOyNqHxh2WvcBKGF2rLH8Ka?usp=sharing)
